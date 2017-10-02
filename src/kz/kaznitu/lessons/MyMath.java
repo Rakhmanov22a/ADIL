@@ -33,5 +33,5 @@ public class MyMath {
     public static int isOdd(int a){
         return (a%2 !=0) ;
     }
-
+    System.out.println();
 }
